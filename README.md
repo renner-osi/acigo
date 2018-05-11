@@ -16,7 +16,7 @@ Usage
 
 2\. Import the package in your program
 
-    import "github.com/udhos/acigo/aci"
+    import "github.com/renner-osi/acigo/aci"
 
 Example
 =======
@@ -25,7 +25,7 @@ Example
     
     import (
     	"fmt"
-    	"github.com/udhos/renner-osi/aci"
+    	"github.com/renner-osi/acigo/aci"
     )
     
     func main() {
