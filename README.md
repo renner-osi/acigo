@@ -1,5 +1,5 @@
-[![GoDoc](https://godoc.org/github.com/udhos/acigo/aci?status.svg)](http://godoc.org/github.com/udhos/acigo/aci)
-[![Go Report Card](https://goreportcard.com/badge/github.com/udhos/acigo)](https://goreportcard.com/report/github.com/udhos/acigo)
+[![GoDoc](https://godoc.org/github.com/renner-osi/acigo/aci?status.svg)](http://godoc.org/github.com/renner-osi/acigo/aci)
+[![Go Report Card](https://goreportcard.com/badge/github.com/renner-osi/acigo)](https://goreportcard.com/report/github.com/renner-osi/acigo)
 
 About Acigo
 ===========
@@ -11,13 +11,10 @@ Usage
 
 1\. Grab the source
 
-    go get github.com/udhos/acigo
+    go get github.com/renner-osi/acigo/...
 
-2\. Grab dependencies
 
-    go get github.com/gorilla/websocket
-
-3\. Import the package in your program
+2\. Import the package in your program
 
     import "github.com/udhos/acigo/aci"
 
@@ -28,7 +25,7 @@ Example
     
     import (
     	"fmt"
-    	"github.com/udhos/acigo/aci"
+    	"github.com/udhos/renner-osi/aci"
     )
     
     func main() {
@@ -63,7 +60,7 @@ Example
 Documentation
 =============
 
-Acigo documentation in GoDoc: https://godoc.org/github.com/udhos/acigo/aci
+Acigo documentation in GoDoc: https://godoc.org/github.com/renner-osi/acigo/aci
 
 See Also
 ========
